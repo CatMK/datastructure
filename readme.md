@@ -1,4 +1,3 @@
-datastructure is fu**ing hard!
-
-first update:
+second update:
 datastructure is fuc*ing hard!
+datastructure is fucking hard!
